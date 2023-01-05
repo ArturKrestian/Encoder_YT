@@ -44,7 +44,7 @@ void setup()
   lcd.init();
   lcd.backlight();
 
-  PrintLCD("cnchobby.pl",3);
+  PrintLCD("cnchobby.pl :-)",3);
 }
 void loop()
 {
